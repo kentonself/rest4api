@@ -38,7 +38,6 @@ GNU GENERAL PUBLIC LICENSE
 
 ## TODO
 
-- Clean up two2three so the pylint can call out mutliple-statements (C0321)
 - Handle the cases where the lookup fails better. Catch the "did you mean" output and return it.
 
 ## Contribution

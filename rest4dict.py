@@ -1,7 +1,5 @@
 "flask app to add rest api layer to dict command line tool"
 
-# pylint: disable=multiple-statements, too-many-branches, too-many-return-statements
-
 import sys
 import subprocess
 import json
